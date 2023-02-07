@@ -1,0 +1,20 @@
+{
+  "name": "gamer-nerdz",
+  "homepage": "https://github.com/gregthompson27/gamer-nerdz",
+  "authors": [
+    "Gregory Thompson <gregthompson27@gmail.com>"
+  ],
+  "description": "this is a video game library to help develop games",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
