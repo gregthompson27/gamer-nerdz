@@ -1,5 +1,5 @@
 (function(window, _) {
-    window.myLibraryName = window.myLibraryName || {
+    window.gamerNerdz = window.gamerNerdz || {
       numz: {
         getDistance(pointA, pointB) {
           const distanceX = pointB.x - pointA.x
